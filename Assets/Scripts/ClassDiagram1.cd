@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AmbientSound">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAgAAAAAgAAAAAAAAAIAAAAAAAIAAAAIAAACA=</HashCode>
+      <FileName>Assets\Scripts\Audio\AmbientSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioController">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Audio\AudioController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sound">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAgAAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Audio\Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverScreen">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAAAgAAAIgAAAAAAAAAAAAAAAoAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\UI\GameOverScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuController">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAwAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\MenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OptionsController">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAwAAAAAAAAAAAAAAACGAggIAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\UI\OptionsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameController">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UASggAAEACAAAAgAwAEiBAAAJAIAEYASIgMQAMAAACI=</HashCode>
+      <FileName>Assets\Scripts\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GhostManager">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yCAAAAAACBQAAAAgwAAAEMAAAABCEGACIQgWCEwEAEA=</HashCode>
+      <FileName>Assets\Scripts\Ghosts\GhostManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Movement">
+    <Position X="13.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAQAADAAAAAAwICAEAAEBgBCAAAAAQAAAEDEAEA=</HashCode>
+      <FileName>Assets\Scripts\Movement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrackDir">
+    <Position X="12" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAECEAAAAAAAAKAEEAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\TrackDir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TriggerManager">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAABAAAwAAAAAAAAAAIEAIAAABIAAAgaAACKg=</HashCode>
+      <FileName>Assets\Scripts\TriggerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blue">
+    <Position X="5.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAgAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\Ghosts\Blue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orange">
+    <Position X="7.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAIAAAAAAAAAAAAAAAAAACAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ghosts\Orange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pink">
+    <Position X="10.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\Ghosts\Pink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Red">
+    <Position X="12.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Ghosts\Red.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
